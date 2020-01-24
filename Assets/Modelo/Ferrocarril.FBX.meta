@@ -1,0 +1,1940 @@
+fileFormatVersion: 2
+guid: 686bdf38c25e6274585fcefd100112bf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box016
+    100032: Box017
+    100034: Box018
+    100036: Box019
+    100038: Box020
+    100040: Box021
+    100042: Box022
+    100044: Box023
+    100046: Box024
+    100048: Box025
+    100050: Box026
+    100052: Box027
+    100054: Box028
+    100056: Box029
+    100058: Box030
+    100060: Box031
+    100062: Box032
+    100064: Box033
+    100066: Box034
+    100068: Box035
+    100070: Box036
+    100072: Box037
+    100074: Box038
+    100076: Box039
+    100078: Box040
+    100080: Box041
+    100082: Box042
+    100084: Box043
+    100086: Box044
+    100088: Box045
+    100090: Box046
+    100092: Box047
+    100094: Box048
+    100096: Box049
+    100098: Box050
+    100100: Box051
+    100102: Box052
+    100104: Box053
+    100106: Box054
+    100108: Box055
+    100110: Box056
+    100112: Box057
+    100114: Box058
+    100116: Box059
+    100118: Box060
+    100120: Box061
+    100122: Camera001
+    100124: Camera001.Target
+    100126: Circle001
+    100128: Circle002
+    100130: Circle003
+    100132: Circle004
+    100134: Circle005
+    100136: Circle006
+    100138: Circle007
+    100140: Circle008
+    100142: //RootNode
+    100144: FERROCARRL DE ANTIOUIA
+    100146: Mesh1
+    100148: Mesh10
+    100150: Mesh100
+    100152: Mesh101
+    100154: Mesh102
+    100156: Mesh103
+    100158: Mesh104
+    100160: Mesh105
+    100162: Mesh106
+    100164: Mesh108
+    100166: Mesh11
+    100168: Mesh110
+    100170: Mesh111
+    100172: Mesh112
+    100174: Mesh113
+    100176: Mesh114
+    100178: Mesh115
+    100180: Mesh116
+    100182: Mesh117
+    100184: Mesh118
+    100186: Mesh119
+    100188: Mesh12
+    100190: Mesh120
+    100192: Mesh121
+    100194: Mesh122
+    100196: Mesh123
+    100198: Mesh124
+    100200: Mesh125
+    100202: Mesh126
+    100204: Mesh127
+    100206: Mesh128
+    100208: Mesh129
+    100210: Mesh13
+    100212: Mesh130
+    100214: Mesh131
+    100216: Mesh132
+    100218: Mesh133
+    100220: Mesh134
+    100222: Mesh135
+    100224: Mesh136
+    100226: Mesh137
+    100228: Mesh138
+    100230: Mesh139
+    100232: Mesh14
+    100234: Mesh140
+    100236: Mesh141
+    100238: Mesh142
+    100240: Mesh143
+    100242: Mesh144
+    100244: Mesh145
+    100246: Mesh146
+    100248: Mesh147
+    100250: Mesh148
+    100252: Mesh149
+    100254: Mesh15
+    100256: Mesh150
+    100258: Mesh151
+    100260: Mesh152
+    100262: Mesh153
+    100264: Mesh154
+    100266: Mesh155
+    100268: Mesh156
+    100270: Mesh157
+    100272: Mesh158
+    100274: Mesh159
+    100276: Mesh16
+    100278: Mesh160
+    100280: Mesh161
+    100282: Mesh162
+    100284: Mesh163
+    100286: Mesh164
+    100288: Mesh165
+    100290: Mesh166
+    100292: Mesh167
+    100294: Mesh168
+    100296: Mesh169
+    100298: Mesh17
+    100300: Mesh173
+    100302: Mesh174
+    100304: Mesh175
+    100306: Mesh176
+    100308: Mesh177
+    100310: Mesh178
+    100312: Mesh179
+    100314: Mesh18
+    100316: Mesh180
+    100318: Mesh181
+    100320: Mesh182
+    100322: Mesh183
+    100324: Mesh184
+    100326: Mesh185
+    100328: Mesh186
+    100330: Mesh187
+    100332: Mesh19
+    100334: Mesh2
+    100336: Mesh20
+    100338: Mesh21
+    100340: Mesh22
+    100342: Mesh23
+    100344: Mesh24
+    100346: Mesh25
+    100348: Mesh26
+    100350: Mesh27
+    100352: Mesh28
+    100354: Mesh3
+    100356: Mesh32
+    100358: Mesh36
+    100360: Mesh39
+    100362: Mesh4
+    100364: Mesh40
+    100366: Mesh43
+    100368: Mesh44
+    100370: Mesh45
+    100372: Mesh46
+    100374: Mesh47
+    100376: Mesh48
+    100378: Mesh49
+    100380: Mesh5
+    100382: Mesh50
+    100384: Mesh51
+    100386: Mesh52
+    100388: Mesh53
+    100390: Mesh54
+    100392: Mesh55
+    100394: Mesh56
+    100396: Mesh57
+    100398: Mesh58
+    100400: Mesh59
+    100402: Mesh6
+    100404: Mesh60
+    100406: Mesh61
+    100408: Mesh62
+    100410: Mesh63
+    100412: Mesh64
+    100414: Mesh65
+    100416: Mesh66
+    100418: Mesh67
+    100420: Mesh68
+    100422: Mesh69
+    100424: Mesh7
+    100426: Mesh70
+    100428: Mesh71
+    100430: Mesh72
+    100432: Mesh73
+    100434: Mesh74
+    100436: Mesh75
+    100438: Mesh76
+    100440: Mesh77
+    100442: Mesh8
+    100444: Mesh80
+    100446: Mesh81
+    100448: Mesh82
+    100450: Mesh83
+    100452: Mesh84
+    100454: Mesh85
+    100456: Mesh86
+    100458: Mesh87
+    100460: Mesh88
+    100462: Mesh89
+    100464: Mesh9
+    100466: Mesh90
+    100468: Mesh91
+    100470: Mesh92
+    100472: Mesh93
+    100474: Mesh94
+    100476: Mesh95
+    100478: Mesh96
+    100480: Mesh97
+    100482: Mesh98
+    100484: Mesh99
+    100486: RUEDA
+    100488: RUEDA001
+    100490: RUEDA002
+    100492: RUEDA003
+    100494: RUEDA004
+    100496: RUEDA005
+    100498: RUEDA006
+    100500: RUEDA007
+    100502: RUEDAS
+    100504: RUEDAS001
+    100506: RUEDAS002
+    100508: RUEDAS003
+    100510: RUEDAS004
+    100512: RUEDAS005
+    100514: RUEDAS006
+    100516: RUEDAS007
+    100518: Text001
+    100520: Text002
+    100522: Text003
+    100524: Text004
+    100526: Text005
+    100528: Text006
+    100530: Text007
+    100532: Text008
+    100534: Text010
+    100536: Text011
+    100538: Text012
+    100540: Text013
+    100542: TEXTOS
+    100544: TEXTOS001
+    100546: VRaySun001
+    100548: VRaySun001.Target
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box016
+    400032: Box017
+    400034: Box018
+    400036: Box019
+    400038: Box020
+    400040: Box021
+    400042: Box022
+    400044: Box023
+    400046: Box024
+    400048: Box025
+    400050: Box026
+    400052: Box027
+    400054: Box028
+    400056: Box029
+    400058: Box030
+    400060: Box031
+    400062: Box032
+    400064: Box033
+    400066: Box034
+    400068: Box035
+    400070: Box036
+    400072: Box037
+    400074: Box038
+    400076: Box039
+    400078: Box040
+    400080: Box041
+    400082: Box042
+    400084: Box043
+    400086: Box044
+    400088: Box045
+    400090: Box046
+    400092: Box047
+    400094: Box048
+    400096: Box049
+    400098: Box050
+    400100: Box051
+    400102: Box052
+    400104: Box053
+    400106: Box054
+    400108: Box055
+    400110: Box056
+    400112: Box057
+    400114: Box058
+    400116: Box059
+    400118: Box060
+    400120: Box061
+    400122: Camera001
+    400124: Camera001.Target
+    400126: Circle001
+    400128: Circle002
+    400130: Circle003
+    400132: Circle004
+    400134: Circle005
+    400136: Circle006
+    400138: Circle007
+    400140: Circle008
+    400142: //RootNode
+    400144: FERROCARRL DE ANTIOUIA
+    400146: Mesh1
+    400148: Mesh10
+    400150: Mesh100
+    400152: Mesh101
+    400154: Mesh102
+    400156: Mesh103
+    400158: Mesh104
+    400160: Mesh105
+    400162: Mesh106
+    400164: Mesh108
+    400166: Mesh11
+    400168: Mesh110
+    400170: Mesh111
+    400172: Mesh112
+    400174: Mesh113
+    400176: Mesh114
+    400178: Mesh115
+    400180: Mesh116
+    400182: Mesh117
+    400184: Mesh118
+    400186: Mesh119
+    400188: Mesh12
+    400190: Mesh120
+    400192: Mesh121
+    400194: Mesh122
+    400196: Mesh123
+    400198: Mesh124
+    400200: Mesh125
+    400202: Mesh126
+    400204: Mesh127
+    400206: Mesh128
+    400208: Mesh129
+    400210: Mesh13
+    400212: Mesh130
+    400214: Mesh131
+    400216: Mesh132
+    400218: Mesh133
+    400220: Mesh134
+    400222: Mesh135
+    400224: Mesh136
+    400226: Mesh137
+    400228: Mesh138
+    400230: Mesh139
+    400232: Mesh14
+    400234: Mesh140
+    400236: Mesh141
+    400238: Mesh142
+    400240: Mesh143
+    400242: Mesh144
+    400244: Mesh145
+    400246: Mesh146
+    400248: Mesh147
+    400250: Mesh148
+    400252: Mesh149
+    400254: Mesh15
+    400256: Mesh150
+    400258: Mesh151
+    400260: Mesh152
+    400262: Mesh153
+    400264: Mesh154
+    400266: Mesh155
+    400268: Mesh156
+    400270: Mesh157
+    400272: Mesh158
+    400274: Mesh159
+    400276: Mesh16
+    400278: Mesh160
+    400280: Mesh161
+    400282: Mesh162
+    400284: Mesh163
+    400286: Mesh164
+    400288: Mesh165
+    400290: Mesh166
+    400292: Mesh167
+    400294: Mesh168
+    400296: Mesh169
+    400298: Mesh17
+    400300: Mesh173
+    400302: Mesh174
+    400304: Mesh175
+    400306: Mesh176
+    400308: Mesh177
+    400310: Mesh178
+    400312: Mesh179
+    400314: Mesh18
+    400316: Mesh180
+    400318: Mesh181
+    400320: Mesh182
+    400322: Mesh183
+    400324: Mesh184
+    400326: Mesh185
+    400328: Mesh186
+    400330: Mesh187
+    400332: Mesh19
+    400334: Mesh2
+    400336: Mesh20
+    400338: Mesh21
+    400340: Mesh22
+    400342: Mesh23
+    400344: Mesh24
+    400346: Mesh25
+    400348: Mesh26
+    400350: Mesh27
+    400352: Mesh28
+    400354: Mesh3
+    400356: Mesh32
+    400358: Mesh36
+    400360: Mesh39
+    400362: Mesh4
+    400364: Mesh40
+    400366: Mesh43
+    400368: Mesh44
+    400370: Mesh45
+    400372: Mesh46
+    400374: Mesh47
+    400376: Mesh48
+    400378: Mesh49
+    400380: Mesh5
+    400382: Mesh50
+    400384: Mesh51
+    400386: Mesh52
+    400388: Mesh53
+    400390: Mesh54
+    400392: Mesh55
+    400394: Mesh56
+    400396: Mesh57
+    400398: Mesh58
+    400400: Mesh59
+    400402: Mesh6
+    400404: Mesh60
+    400406: Mesh61
+    400408: Mesh62
+    400410: Mesh63
+    400412: Mesh64
+    400414: Mesh65
+    400416: Mesh66
+    400418: Mesh67
+    400420: Mesh68
+    400422: Mesh69
+    400424: Mesh7
+    400426: Mesh70
+    400428: Mesh71
+    400430: Mesh72
+    400432: Mesh73
+    400434: Mesh74
+    400436: Mesh75
+    400438: Mesh76
+    400440: Mesh77
+    400442: Mesh8
+    400444: Mesh80
+    400446: Mesh81
+    400448: Mesh82
+    400450: Mesh83
+    400452: Mesh84
+    400454: Mesh85
+    400456: Mesh86
+    400458: Mesh87
+    400460: Mesh88
+    400462: Mesh89
+    400464: Mesh9
+    400466: Mesh90
+    400468: Mesh91
+    400470: Mesh92
+    400472: Mesh93
+    400474: Mesh94
+    400476: Mesh95
+    400478: Mesh96
+    400480: Mesh97
+    400482: Mesh98
+    400484: Mesh99
+    400486: RUEDA
+    400488: RUEDA001
+    400490: RUEDA002
+    400492: RUEDA003
+    400494: RUEDA004
+    400496: RUEDA005
+    400498: RUEDA006
+    400500: RUEDA007
+    400502: RUEDAS
+    400504: RUEDAS001
+    400506: RUEDAS002
+    400508: RUEDAS003
+    400510: RUEDAS004
+    400512: RUEDAS005
+    400514: RUEDAS006
+    400516: RUEDAS007
+    400518: Text001
+    400520: Text002
+    400522: Text003
+    400524: Text004
+    400526: Text005
+    400528: Text006
+    400530: Text007
+    400532: Text008
+    400534: Text010
+    400536: Text011
+    400538: Text012
+    400540: Text013
+    400542: TEXTOS
+    400544: TEXTOS001
+    400546: VRaySun001
+    400548: VRaySun001.Target
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: Box018
+    2300036: Box019
+    2300038: Box020
+    2300040: Box021
+    2300042: Box022
+    2300044: Box023
+    2300046: Box024
+    2300048: Box025
+    2300050: Box026
+    2300052: Box027
+    2300054: Box028
+    2300056: Box029
+    2300058: Box030
+    2300060: Box031
+    2300062: Box032
+    2300064: Box033
+    2300066: Box034
+    2300068: Box035
+    2300070: Box036
+    2300072: Box037
+    2300074: Box038
+    2300076: Box039
+    2300078: Box040
+    2300080: Box041
+    2300082: Box042
+    2300084: Box043
+    2300086: Box044
+    2300088: Box045
+    2300090: Box046
+    2300092: Box047
+    2300094: Box048
+    2300096: Box049
+    2300098: Box050
+    2300100: Box051
+    2300102: Box052
+    2300104: Box053
+    2300106: Box054
+    2300108: Box055
+    2300110: Box056
+    2300112: Box057
+    2300114: Box058
+    2300116: Box059
+    2300118: Box060
+    2300120: Box061
+    2300122: Circle001
+    2300124: Circle002
+    2300126: Circle003
+    2300128: Circle004
+    2300130: Circle005
+    2300132: Circle006
+    2300134: Circle007
+    2300136: Circle008
+    2300138: Mesh1
+    2300140: Mesh10
+    2300142: Mesh100
+    2300144: Mesh101
+    2300146: Mesh102
+    2300148: Mesh103
+    2300150: Mesh104
+    2300152: Mesh105
+    2300154: Mesh106
+    2300156: Mesh108
+    2300158: Mesh11
+    2300160: Mesh110
+    2300162: Mesh111
+    2300164: Mesh112
+    2300166: Mesh113
+    2300168: Mesh114
+    2300170: Mesh115
+    2300172: Mesh116
+    2300174: Mesh117
+    2300176: Mesh118
+    2300178: Mesh119
+    2300180: Mesh12
+    2300182: Mesh120
+    2300184: Mesh121
+    2300186: Mesh122
+    2300188: Mesh123
+    2300190: Mesh124
+    2300192: Mesh125
+    2300194: Mesh126
+    2300196: Mesh127
+    2300198: Mesh128
+    2300200: Mesh129
+    2300202: Mesh13
+    2300204: Mesh130
+    2300206: Mesh131
+    2300208: Mesh132
+    2300210: Mesh133
+    2300212: Mesh134
+    2300214: Mesh135
+    2300216: Mesh136
+    2300218: Mesh137
+    2300220: Mesh138
+    2300222: Mesh139
+    2300224: Mesh14
+    2300226: Mesh140
+    2300228: Mesh141
+    2300230: Mesh142
+    2300232: Mesh143
+    2300234: Mesh144
+    2300236: Mesh145
+    2300238: Mesh146
+    2300240: Mesh147
+    2300242: Mesh148
+    2300244: Mesh149
+    2300246: Mesh15
+    2300248: Mesh150
+    2300250: Mesh151
+    2300252: Mesh152
+    2300254: Mesh153
+    2300256: Mesh154
+    2300258: Mesh155
+    2300260: Mesh156
+    2300262: Mesh157
+    2300264: Mesh158
+    2300266: Mesh159
+    2300268: Mesh16
+    2300270: Mesh160
+    2300272: Mesh161
+    2300274: Mesh162
+    2300276: Mesh163
+    2300278: Mesh164
+    2300280: Mesh165
+    2300282: Mesh166
+    2300284: Mesh167
+    2300286: Mesh168
+    2300288: Mesh169
+    2300290: Mesh17
+    2300292: Mesh173
+    2300294: Mesh174
+    2300296: Mesh175
+    2300298: Mesh176
+    2300300: Mesh177
+    2300302: Mesh178
+    2300304: Mesh179
+    2300306: Mesh18
+    2300308: Mesh180
+    2300310: Mesh181
+    2300312: Mesh182
+    2300314: Mesh183
+    2300316: Mesh184
+    2300318: Mesh185
+    2300320: Mesh186
+    2300322: Mesh187
+    2300324: Mesh19
+    2300326: Mesh2
+    2300328: Mesh20
+    2300330: Mesh21
+    2300332: Mesh22
+    2300334: Mesh23
+    2300336: Mesh24
+    2300338: Mesh25
+    2300340: Mesh26
+    2300342: Mesh27
+    2300344: Mesh28
+    2300346: Mesh3
+    2300348: Mesh32
+    2300350: Mesh36
+    2300352: Mesh39
+    2300354: Mesh4
+    2300356: Mesh40
+    2300358: Mesh43
+    2300360: Mesh44
+    2300362: Mesh45
+    2300364: Mesh46
+    2300366: Mesh47
+    2300368: Mesh48
+    2300370: Mesh49
+    2300372: Mesh5
+    2300374: Mesh50
+    2300376: Mesh51
+    2300378: Mesh52
+    2300380: Mesh53
+    2300382: Mesh54
+    2300384: Mesh55
+    2300386: Mesh56
+    2300388: Mesh57
+    2300390: Mesh58
+    2300392: Mesh59
+    2300394: Mesh6
+    2300396: Mesh60
+    2300398: Mesh61
+    2300400: Mesh62
+    2300402: Mesh63
+    2300404: Mesh64
+    2300406: Mesh65
+    2300408: Mesh66
+    2300410: Mesh67
+    2300412: Mesh68
+    2300414: Mesh69
+    2300416: Mesh7
+    2300418: Mesh70
+    2300420: Mesh71
+    2300422: Mesh72
+    2300424: Mesh73
+    2300426: Mesh74
+    2300428: Mesh75
+    2300430: Mesh76
+    2300432: Mesh77
+    2300434: Mesh8
+    2300436: Mesh80
+    2300438: Mesh81
+    2300440: Mesh82
+    2300442: Mesh83
+    2300444: Mesh84
+    2300446: Mesh85
+    2300448: Mesh86
+    2300450: Mesh87
+    2300452: Mesh88
+    2300454: Mesh89
+    2300456: Mesh9
+    2300458: Mesh90
+    2300460: Mesh91
+    2300462: Mesh92
+    2300464: Mesh93
+    2300466: Mesh94
+    2300468: Mesh95
+    2300470: Mesh96
+    2300472: Mesh97
+    2300474: Mesh98
+    2300476: Mesh99
+    2300478: Text001
+    2300480: Text002
+    2300482: Text003
+    2300484: Text004
+    2300486: Text005
+    2300488: Text006
+    2300490: Text007
+    2300492: Text008
+    2300494: Text010
+    2300496: Text011
+    2300498: Text012
+    2300500: Text013
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: Box018
+    3300036: Box019
+    3300038: Box020
+    3300040: Box021
+    3300042: Box022
+    3300044: Box023
+    3300046: Box024
+    3300048: Box025
+    3300050: Box026
+    3300052: Box027
+    3300054: Box028
+    3300056: Box029
+    3300058: Box030
+    3300060: Box031
+    3300062: Box032
+    3300064: Box033
+    3300066: Box034
+    3300068: Box035
+    3300070: Box036
+    3300072: Box037
+    3300074: Box038
+    3300076: Box039
+    3300078: Box040
+    3300080: Box041
+    3300082: Box042
+    3300084: Box043
+    3300086: Box044
+    3300088: Box045
+    3300090: Box046
+    3300092: Box047
+    3300094: Box048
+    3300096: Box049
+    3300098: Box050
+    3300100: Box051
+    3300102: Box052
+    3300104: Box053
+    3300106: Box054
+    3300108: Box055
+    3300110: Box056
+    3300112: Box057
+    3300114: Box058
+    3300116: Box059
+    3300118: Box060
+    3300120: Box061
+    3300122: Circle001
+    3300124: Circle002
+    3300126: Circle003
+    3300128: Circle004
+    3300130: Circle005
+    3300132: Circle006
+    3300134: Circle007
+    3300136: Circle008
+    3300138: Mesh1
+    3300140: Mesh10
+    3300142: Mesh100
+    3300144: Mesh101
+    3300146: Mesh102
+    3300148: Mesh103
+    3300150: Mesh104
+    3300152: Mesh105
+    3300154: Mesh106
+    3300156: Mesh108
+    3300158: Mesh11
+    3300160: Mesh110
+    3300162: Mesh111
+    3300164: Mesh112
+    3300166: Mesh113
+    3300168: Mesh114
+    3300170: Mesh115
+    3300172: Mesh116
+    3300174: Mesh117
+    3300176: Mesh118
+    3300178: Mesh119
+    3300180: Mesh12
+    3300182: Mesh120
+    3300184: Mesh121
+    3300186: Mesh122
+    3300188: Mesh123
+    3300190: Mesh124
+    3300192: Mesh125
+    3300194: Mesh126
+    3300196: Mesh127
+    3300198: Mesh128
+    3300200: Mesh129
+    3300202: Mesh13
+    3300204: Mesh130
+    3300206: Mesh131
+    3300208: Mesh132
+    3300210: Mesh133
+    3300212: Mesh134
+    3300214: Mesh135
+    3300216: Mesh136
+    3300218: Mesh137
+    3300220: Mesh138
+    3300222: Mesh139
+    3300224: Mesh14
+    3300226: Mesh140
+    3300228: Mesh141
+    3300230: Mesh142
+    3300232: Mesh143
+    3300234: Mesh144
+    3300236: Mesh145
+    3300238: Mesh146
+    3300240: Mesh147
+    3300242: Mesh148
+    3300244: Mesh149
+    3300246: Mesh15
+    3300248: Mesh150
+    3300250: Mesh151
+    3300252: Mesh152
+    3300254: Mesh153
+    3300256: Mesh154
+    3300258: Mesh155
+    3300260: Mesh156
+    3300262: Mesh157
+    3300264: Mesh158
+    3300266: Mesh159
+    3300268: Mesh16
+    3300270: Mesh160
+    3300272: Mesh161
+    3300274: Mesh162
+    3300276: Mesh163
+    3300278: Mesh164
+    3300280: Mesh165
+    3300282: Mesh166
+    3300284: Mesh167
+    3300286: Mesh168
+    3300288: Mesh169
+    3300290: Mesh17
+    3300292: Mesh173
+    3300294: Mesh174
+    3300296: Mesh175
+    3300298: Mesh176
+    3300300: Mesh177
+    3300302: Mesh178
+    3300304: Mesh179
+    3300306: Mesh18
+    3300308: Mesh180
+    3300310: Mesh181
+    3300312: Mesh182
+    3300314: Mesh183
+    3300316: Mesh184
+    3300318: Mesh185
+    3300320: Mesh186
+    3300322: Mesh187
+    3300324: Mesh19
+    3300326: Mesh2
+    3300328: Mesh20
+    3300330: Mesh21
+    3300332: Mesh22
+    3300334: Mesh23
+    3300336: Mesh24
+    3300338: Mesh25
+    3300340: Mesh26
+    3300342: Mesh27
+    3300344: Mesh28
+    3300346: Mesh3
+    3300348: Mesh32
+    3300350: Mesh36
+    3300352: Mesh39
+    3300354: Mesh4
+    3300356: Mesh40
+    3300358: Mesh43
+    3300360: Mesh44
+    3300362: Mesh45
+    3300364: Mesh46
+    3300366: Mesh47
+    3300368: Mesh48
+    3300370: Mesh49
+    3300372: Mesh5
+    3300374: Mesh50
+    3300376: Mesh51
+    3300378: Mesh52
+    3300380: Mesh53
+    3300382: Mesh54
+    3300384: Mesh55
+    3300386: Mesh56
+    3300388: Mesh57
+    3300390: Mesh58
+    3300392: Mesh59
+    3300394: Mesh6
+    3300396: Mesh60
+    3300398: Mesh61
+    3300400: Mesh62
+    3300402: Mesh63
+    3300404: Mesh64
+    3300406: Mesh65
+    3300408: Mesh66
+    3300410: Mesh67
+    3300412: Mesh68
+    3300414: Mesh69
+    3300416: Mesh7
+    3300418: Mesh70
+    3300420: Mesh71
+    3300422: Mesh72
+    3300424: Mesh73
+    3300426: Mesh74
+    3300428: Mesh75
+    3300430: Mesh76
+    3300432: Mesh77
+    3300434: Mesh8
+    3300436: Mesh80
+    3300438: Mesh81
+    3300440: Mesh82
+    3300442: Mesh83
+    3300444: Mesh84
+    3300446: Mesh85
+    3300448: Mesh86
+    3300450: Mesh87
+    3300452: Mesh88
+    3300454: Mesh89
+    3300456: Mesh9
+    3300458: Mesh90
+    3300460: Mesh91
+    3300462: Mesh92
+    3300464: Mesh93
+    3300466: Mesh94
+    3300468: Mesh95
+    3300470: Mesh96
+    3300472: Mesh97
+    3300474: Mesh98
+    3300476: Mesh99
+    3300478: Text001
+    3300480: Text002
+    3300482: Text003
+    3300484: Text004
+    3300486: Text005
+    3300488: Text006
+    3300490: Text007
+    3300492: Text008
+    3300494: Text010
+    3300496: Text011
+    3300498: Text012
+    3300500: Text013
+    4300000: Mesh105
+    4300002: Mesh82
+    4300004: Mesh7
+    4300006: Mesh8
+    4300008: Mesh167
+    4300010: Mesh166
+    4300012: Mesh165
+    4300014: Mesh164
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh158
+    4300032: Mesh157
+    4300034: Mesh156
+    4300036: Mesh155
+    4300038: Mesh6
+    4300040: Mesh17
+    4300042: Mesh18
+    4300044: Mesh19
+    4300046: Mesh20
+    4300048: Mesh21
+    4300050: Mesh22
+    4300052: Mesh23
+    4300054: Mesh24
+    4300056: Mesh25
+    4300058: Mesh146
+    4300060: Mesh145
+    4300062: Mesh144
+    4300064: Mesh143
+    4300066: Mesh28
+    4300068: Mesh83
+    4300070: Mesh16
+    4300072: Mesh84
+    4300074: Mesh85
+    4300076: Mesh137
+    4300078: Mesh136
+    4300080: Mesh135
+    4300082: Mesh134
+    4300084: Mesh86
+    4300086: Mesh88
+    4300088: Mesh89
+    4300090: Mesh106
+    4300092: Mesh87
+    4300094: Mesh108
+    4300096: Mesh111
+    4300098: Mesh112
+    4300100: Mesh36
+    4300102: Mesh141
+    4300104: Mesh142
+    4300106: Mesh27
+    4300108: Mesh150
+    4300110: Mesh113
+    4300112: Mesh151
+    4300114: Mesh126
+    4300116: Mesh152
+    4300118: Mesh153
+    4300120: Mesh154
+    4300122: Mesh129
+    4300124: Mesh130
+    4300126: Mesh131
+    4300128: Mesh26
+    4300130: Mesh103
+    4300132: Mesh159
+    4300134: Mesh160
+    4300136: Mesh161
+    4300138: Mesh162
+    4300140: Mesh163
+    4300142: Mesh140
+    4300144: Mesh139
+    4300146: Mesh138
+    4300148: Mesh133
+    4300150: Mesh90
+    4300152: Mesh132
+    4300154: Mesh92
+    4300156: Mesh168
+    4300158: Mesh93
+    4300160: Mesh94
+    4300162: Mesh95
+    4300164: Mesh96
+    4300166: Mesh97
+    4300168: Mesh91
+    4300170: Mesh98
+    4300172: Mesh80
+    4300174: Mesh99
+    4300176: Mesh100
+    4300178: Mesh101
+    4300180: Mesh102
+    4300182: Mesh75
+    4300184: Mesh74
+    4300186: Mesh73
+    4300188: Mesh114
+    4300190: Mesh128
+    4300192: Mesh32
+    4300194: Mesh3
+    4300196: Mesh115
+    4300198: Mesh149
+    4300200: Mesh147
+    4300202: Mesh116
+    4300204: Mesh117
+    4300206: Mesh58
+    4300208: Mesh118
+    4300210: Mesh119
+    4300212: Mesh120
+    4300214: Mesh53
+    4300216: Mesh52
+    4300218: Mesh51
+    4300220: Mesh50
+    4300222: Mesh49
+    4300224: Mesh48
+    4300226: Mesh47
+    4300228: Mesh46
+    4300230: Mesh45
+    4300232: Mesh44
+    4300234: Mesh121
+    4300236: Mesh122
+    4300238: Mesh123
+    4300240: Mesh124
+    4300242: Mesh125
+    4300244: Mesh40
+    4300246: Mesh43
+    4300248: Mesh54
+    4300250: Mesh55
+    4300252: Mesh56
+    4300254: Mesh57
+    4300256: Mesh59
+    4300258: Mesh60
+    4300260: Mesh61
+    4300262: Mesh62
+    4300264: Mesh169
+    4300266: Mesh63
+    4300268: Mesh64
+    4300270: Mesh65
+    4300272: Mesh67
+    4300274: Mesh68
+    4300276: Mesh69
+    4300278: Mesh70
+    4300280: Mesh71
+    4300282: Mesh72
+    4300284: Mesh76
+    4300286: Mesh77
+    4300288: Mesh81
+    4300290: Mesh104
+    4300292: Mesh127
+    4300294: Mesh148
+    4300296: Mesh39
+    4300298: Mesh5
+    4300300: Mesh66
+    4300302: Mesh4
+    4300304: Mesh2
+    4300306: Mesh1
+    4300308: Mesh173
+    4300310: Text003
+    4300312: Text002
+    4300314: Text001
+    4300316: Text004
+    4300318: Text005
+    4300320: Text006
+    4300322: Circle001
+    4300324: Mesh110
+    4300326: Mesh174
+    4300328: Mesh175
+    4300330: Mesh176
+    4300332: Mesh177
+    4300334: Mesh178
+    4300336: Mesh179
+    4300338: Mesh180
+    4300340: Circle002
+    4300342: Mesh181
+    4300344: Circle003
+    4300346: Mesh182
+    4300348: Circle004
+    4300350: Mesh183
+    4300352: Circle005
+    4300354: Mesh184
+    4300356: Circle006
+    4300358: Mesh185
+    4300360: Text007
+    4300362: Text008
+    4300364: Text010
+    4300366: Text011
+    4300368: Circle007
+    4300370: Mesh186
+    4300372: Circle008
+    4300374: Mesh187
+    4300376: Text012
+    4300378: Text013
+    4300380: Box001
+    4300382: Box002
+    4300384: Box003
+    4300386: Box004
+    4300388: Box005
+    4300390: Box006
+    4300392: Box007
+    4300394: Box008
+    4300396: Box009
+    4300398: Box010
+    4300400: Box011
+    4300402: Box012
+    4300404: Box013
+    4300406: Box014
+    4300408: Box015
+    4300410: Box016
+    4300412: Box017
+    4300414: Box018
+    4300416: Box019
+    4300418: Box020
+    4300420: Box021
+    4300422: Box022
+    4300424: Box023
+    4300426: Box024
+    4300428: Box025
+    4300430: Box026
+    4300432: Box027
+    4300434: Box028
+    4300436: Box029
+    4300438: Box030
+    4300440: Box031
+    4300442: Box032
+    4300444: Box033
+    4300446: Box034
+    4300448: Box035
+    4300450: Box036
+    4300452: Box037
+    4300454: Box038
+    4300456: Box039
+    4300458: Box040
+    4300460: Box041
+    4300462: Box042
+    4300464: Box043
+    4300466: Box044
+    4300468: Box045
+    4300470: Box046
+    4300472: Box047
+    4300474: Box048
+    4300476: Box049
+    4300478: Box050
+    4300480: Box051
+    4300482: Box052
+    4300484: Box053
+    4300486: Box054
+    4300488: Box055
+    4300490: Box056
+    4300492: Box057
+    4300494: Box058
+    4300496: Box059
+    4300498: Box060
+    4300500: Box061
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: Box006
+        weight: 1
+      - path: Box007
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Box042
+        weight: 1
+      - path: Box043
+        weight: 1
+      - path: Box044
+        weight: 1
+      - path: Box045
+        weight: 1
+      - path: Box046
+        weight: 1
+      - path: Box047
+        weight: 1
+      - path: Box048
+        weight: 1
+      - path: Box049
+        weight: 1
+      - path: Box050
+        weight: 1
+      - path: Box051
+        weight: 1
+      - path: Box052
+        weight: 1
+      - path: Box053
+        weight: 1
+      - path: Box054
+        weight: 1
+      - path: Box055
+        weight: 1
+      - path: Box056
+        weight: 1
+      - path: Box057
+        weight: 1
+      - path: Box058
+        weight: 1
+      - path: Box059
+        weight: 1
+      - path: Box060
+        weight: 1
+      - path: Box061
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh1
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh2
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh3
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh4
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh5
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh6
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh7
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh8
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh9
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh10
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh11
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh12
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh13
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh14
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh15
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh16
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh17
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh18
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh19
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh20
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh21
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh22
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh23
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh24
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh25
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh26
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh27
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh28
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh32
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh36
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh39
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh40
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh43
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh44
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh45
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh46
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh47
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh48
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh49
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh50
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh51
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh52
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh53
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh54
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh55
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh56
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh57
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh58
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh59
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh60
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh61
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh62
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh63
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh64
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh65
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh66
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh67
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh68
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh69
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh70
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh71
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh72
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh73
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh74
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh75
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh76
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh77
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh80
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh81
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh82
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh83
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh84
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh85
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh86
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh87
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh88
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh89
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh90
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh91
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh92
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh93
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh94
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh95
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh96
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh97
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh98
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh99
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh100
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh101
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh102
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh103
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh104
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh105
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh106
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh108
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh111
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh112
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh113
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh114
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh115
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh116
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh117
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh118
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh119
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh120
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh121
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh122
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh123
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh124
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh125
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh126
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh127
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh128
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh129
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh130
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh131
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh132
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh133
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh134
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh135
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh136
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh137
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh138
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh139
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh140
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh141
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh142
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh143
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh144
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh145
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh146
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh147
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh148
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh149
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh150
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh151
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh152
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh153
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh154
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh155
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh156
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh157
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh158
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh159
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh160
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh161
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh162
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh163
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh164
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh165
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh166
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh167
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh168
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh169
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh173
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh174
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh175
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh176
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh177
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh178
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh179
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Mesh185
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS/RUEDA
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS/RUEDA/Circle001
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS/RUEDA/Mesh110
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS001
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS001/RUEDA001
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS001/RUEDA001/Circle002
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS001/RUEDA001/Mesh180
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS002
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS002/RUEDA002
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS002/RUEDA002/Circle003
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS002/RUEDA002/Mesh181
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS003
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS003/RUEDA003
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS003/RUEDA003/Circle004
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS003/RUEDA003/Mesh182
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS004
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS004/RUEDA004
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS004/RUEDA004/Circle005
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS004/RUEDA004/Mesh183
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS005
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS005/RUEDA005
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS005/RUEDA005/Circle006
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS005/RUEDA005/Mesh184
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS006
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS006/RUEDA006
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS006/RUEDA006/Circle007
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS006/RUEDA006/Mesh186
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS007
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS007/RUEDA007
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS007/RUEDA007/Circle008
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/RUEDAS007/RUEDA007/Mesh187
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text007
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text008
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text010
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text011
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text012
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/Text013
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS/Text001
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS/Text002
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS/Text003
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS001
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS001/Text004
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS001/Text005
+        weight: 1
+      - path: FERROCARRL DE ANTIOUIA/TEXTOS001/Text006
+        weight: 1
+      - path: VRaySun001
+        weight: 1
+      - path: VRaySun001.Target
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
